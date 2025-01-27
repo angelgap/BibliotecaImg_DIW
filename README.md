@@ -2,7 +2,7 @@
 ---
 Aquí puedes acceder a la versión desplegada de la galería:
 
-[Enlace a la página desplegada](#)
+[Enlace a la página desplegada]( https://angelgap.github.io/BibliotecaImg_DIW/)
 ## Índice
 - [Proyecto de Galería de Imágenes](#proyecto-de-galería-de-imágenes)
   - [Índice](#índice)
